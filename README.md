@@ -1,3 +1,5 @@
-1) First the renders of the plant need to be generated
-2)Then the data needs to be augmented and a mask needs to be generated at the same time for this the ImgAug library was used
-3) TThe images are transformed to a cocodataset, thanks to pycococreator
+We started this project from scratch. 
+The report of the first meeting can be found here : 
+
+In the folder 3D scans you will find 3D models of hand scaned plants. 
+WIth a video sample of them, to test them. A small description of the gathering technic would also be a positif plus.
